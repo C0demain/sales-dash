@@ -1,0 +1,6 @@
+[submodule "sales-dash-web"]
+	path = sales-dash-web
+	url = https://github.com/C0demain/sales-dash-web
+[submodule "sales-dash-back"]
+	path = sales-dash-back
+	url = https://github.com/C0demain/sales-dash-back
