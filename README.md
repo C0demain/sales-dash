@@ -1,4 +1,4 @@
-# Sales-Dash-Documentation
+# Sales-Dash
 
 # 🎯 Projeto
 
