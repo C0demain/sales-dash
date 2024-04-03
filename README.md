@@ -73,7 +73,6 @@
 
 - React  
 
-- MySQL
   
 ## ➯ Outras Ferramentas utilizadas</h2>
 
