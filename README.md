@@ -64,7 +64,7 @@
 
 - Interface responsiva e amigável para facilitar o acesso e a utilização do dashboard em diferentes dispositivos e tamanhos de tela.
 
-## ➯ Tecnologias utilizadas</h2>
+## ➯ Tecnologias utilizadas
 
 - NodeJS 
 
@@ -75,7 +75,7 @@
 - PostgreSQL
 
   
-## ➯ Outras Ferramentas utilizadas</h2>
+## ➯ Outras Ferramentas utilizadas
 
   - Excel
   - Trello
@@ -83,8 +83,8 @@
 
 
 <h2>🔗 Link para o protótipo desenvolvido no Figma </h2>
-O protótipo no Figma, foi desenvolvido para receber a aprovação prévia do cliente e para a vizualização do projeto sem que todo o código tenha que ser baixado.<br>
+O protótipo no Figma foi desenvolvido para receber a aprovação prévia do cliente e para a vizualização do projeto sem que todo o código tenha que ser baixado.<br>
 
 <div align="center">
-<a> Clique aqui para acessar o nosso protótipo </a><br>
+<a href="https://www.figma.com/proto/88D1Wws27UWjdCNuZbqEyI/API-3%C2%B0-Sem?type=design&node-id=1-2&t=af4PpE2Z4smTkASO-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design"> Clique aqui para acessar o nosso protótipo </a><br>
 </div>
