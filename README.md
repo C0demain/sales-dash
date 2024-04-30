@@ -20,7 +20,8 @@
  Este desafio proposto pela disciplina de Estrutura de Dados e Engenharia de Software na Fatec São José dos Campos, visa levantar e registrar requisitos usando técnicas de métodos ágeis e tradicionais, documentar adequadamente DoR e DoD, modelar processos de negócio usando técnicas VPC e BPMN, planejar desenvolvimento de software (Backlog de Produto e Backlog de Sprint), projetar arquitetura lógica de software, implementar aplicação usando conceitos de orientação a objetos (ORM), utilizar IDE´s na implementação de aplicação em Typescript
 
 # ➯ Cronograma
-![backlog] (cronograma.png)
+![cronograma](https://github.com/C0demain/sales-dash/assets/126245787/faf72b67-c3f1-402d-a4d9-2311c70cb012)
+
 
 
 ## 👨‍💻 Equipe
