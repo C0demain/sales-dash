@@ -86,7 +86,8 @@
 
 
 ### MVP Do produto➯
-![demo-sprint2](https://github.com/C0demain/sales-dash/assets/127250310/4eb4ab01-5d7a-4bfd-9da5-58432d303087)
+![mvp-_2_](https://github.com/C0demain/sales-dash/assets/127250310/793bfcc9-4dc7-4f91-acb7-162b9fa354cc)
+
 
 
 
