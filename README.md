@@ -1,4 +1,4 @@
-# Sales-Dash
+![banner](docs/banner.png)
 
 # 🎯 Projeto
 
@@ -20,7 +20,7 @@
  Este desafio proposto pela disciplina de Estrutura de Dados e Engenharia de Software na Fatec São José dos Campos, visa levantar e registrar requisitos usando técnicas de métodos ágeis e tradicionais, documentar adequadamente DoR e DoD, modelar processos de negócio usando técnicas VPC e BPMN, planejar desenvolvimento de software (Backlog de Produto e Backlog de Sprint), projetar arquitetura lógica de software, implementar aplicação usando conceitos de orientação a objetos (ORM), utilizar IDE´s na implementação de aplicação em Typescript
 
 # ➯ Cronograma
-![Planejamento de entregas](https://github.com/C0demain/sales-dash/assets/127250310/57442b97-f8a9-4d47-994d-5c9fb8b79051)
+![Planejamento de entregas](docs/cronograma.png)
  
 
 
@@ -86,15 +86,4 @@
 
 
 ### MVP Do produto➯
-![mvp-_2_](https://github.com/C0demain/sales-dash/assets/127250310/793bfcc9-4dc7-4f91-acb7-162b9fa354cc)
-
-
-
-
-
-<h2>🔗 Link para o protótipo desenvolvido no Figma </h2>
-O protótipo no Figma foi desenvolvido para receber a aprovação prévia do cliente e para a vizualização do projeto sem que todo o código tenha que ser baixado.<br>
-
-<div align="center">
-<a href="https://www.figma.com/proto/88D1Wws27UWjdCNuZbqEyI/API-3%C2%B0-Sem?type=design&node-id=1-2&t=af4PpE2Z4smTkASO-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design"> Clique aqui para acessar o nosso protótipo </a><br>
-</div>
+![mvp-_2_](docs/Demo-sprint1.gif)
