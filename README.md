@@ -102,4 +102,4 @@ Scrum é uma metodologia ágil de gerenciamento de projetos, amplamente utilizad
 
 
 ### MVP Do produto➯
-![mvp-_2_](docs/Demo-sprint1.gif)
+![mvp-4-sprint](https://github.com/C0demain/sales-dash/assets/127250310/d422f44b-c3ce-419b-963f-daeeae0282dc)
