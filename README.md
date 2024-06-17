@@ -76,13 +76,29 @@
 
 - PostgreSQL
 
+- Postman
+
   
 ## ➯ Outras Ferramentas utilizadas
 
   - Excel
+    
   - Trello
+    
   - Figma
 
+## ➯ Utilização da metodologia Scrum no Projeto
+
+ Neste projeto, utilizamos a metodologia Scrum para organizar e gerenciar nosso trabalho de forma eficiente. Durante o desenvolvimento, seguimos os eventos do Scrum rigorosamente, mantendo uma comunicação constante através das Daily Scrums e ajustando nossos objetivos em resposta ao feedback nas Sprint Reviews. O Product Backlog foi mantido atualizado e priorizado pelo Product Owner, garantindo que estivéssemos sempre focados nas tarefas de maior valor. Ao final de cada Sprint, realizamos uma Sprint Retrospective para identificar áreas de melhoria e implementar mudanças para os próximos ciclos de desenvolvimento. Esta abordagem nos permitiu manter uma alta produtividade e adaptabilidade, entregando incrementos de produto de alta qualidade a cada Sprint.
+
+Scrum é uma metodologia ágil de gerenciamento de projetos, amplamente utilizada para desenvolvimento de software. Ela é projetada para oferecer uma abordagem iterativa e incremental, promovendo flexibilidade e rapidez na entrega de produtos. O Scrum é estruturado em torno de pequenos ciclos de desenvolvimento, chamados Sprints, que geralmente duram de duas a quatro semanas. Cada Sprint tem como objetivo entregar um incremento de produto potencialmente utilizável e revisado pelo cliente.
+
+#### Artefatos do Scrum:
+- Product Backlog: Uma lista ordenada de tudo o que é conhecido para ser necessário no produto. É gerenciado pelo Product Owner e inclui histórias de usuário, melhorias, bugs e qualquer outro item necessário para o desenvolvimento do produto.
+
+- Sprint Backlog: Conjunto de itens do Product Backlog selecionados para serem trabalhados durante um Sprint, junto com um plano para entregá-los. Este é gerido pela equipe de desenvolvimento.
+
+- Incremento: A soma de todos os itens do Product Backlog completados durante um Sprint e os incrementos de todos os Sprints anteriores. No final de um Sprint, o novo incremento deve estar em um estado utilizável e atender à definição de pronto da equipe.
 
 
 ### MVP Do produto➯
