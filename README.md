@@ -8,6 +8,7 @@ O desafio do terceiro semestre consiste no desenvolvimento de uma Dashboard de C
 - Produto antigo para novo cliente
 - Produto novo para cliente antigo
 - Produto antigo para cliente antigo
+
 Cada tipo de venda estará associado a um plano de remuneração específico, o qual poderá ser configurado para determinar o bônus atribuído a cada vendedor.
 
 ## Objetivos Acadêmicos
@@ -47,8 +48,6 @@ Este desafio, proposto pela disciplina de Estrutura de Dados e Engenharia de Sof
 
 - Modelagem de Banco de Dados ou Arquivo de dados. 
 
-- Garantia de desempenho e escalabilidade do sistema, mesmo com grandes volumes de dados de vendas e usuários simultâneos. 
-
 - Interface responsiva e amigável para facilitar o acesso e a utilização do dashboard em diferentes dispositivos e tamanhos de tela.
 
 # ➯ Tecnologias utilizadas
@@ -62,10 +61,6 @@ Este desafio, proposto pela disciplina de Estrutura de Dados e Engenharia de Sof
 - PostgreSQL
 
 - Postman
-
-- Render
-
-- Vercel
 
   
 # ➯ Outras Ferramentas utilizadas
