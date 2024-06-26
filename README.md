@@ -91,7 +91,8 @@ Scrum é uma metodologia ágil de gerenciamento de projetos, amplamente utilizad
 
 
 # ➯ MVP Do produto
-![mvp-4-sprint](docs/sales-dash-mvp.mp4)
+- Clique na imagem para ser redirecionado e assistir ao vídeo mostrando os detalhes da aplicação:
+[![Assista ao vídeo](docs/mvp-tela-login.png)](https://drive.google.com/file/d/1b94GKsdwIGHcJ9YA6HmEVndtrlcW9O25/view?usp=sharing)
 
 # 👨‍💻 Integrantes da Equipe
 
