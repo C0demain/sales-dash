@@ -1,32 +1,99 @@
-![banner](docs/banner.png)
+![banner](docs/banner-sales-dash.png)
 
-# 🎯 Projeto
+# ➯ Explicação do Projeto  
+
+O desafio do terceiro semestre consiste no desenvolvimento de uma Dashboard de Comissões de Vendas, denominada "Sales Dash", em parceria com a empresa Pro4Tech. Este sistema tem como objetivo receber dados de vendas e apresentar informações detalhadas sobre as comissões dos vendedores, calculando e exibindo essas comissões com base em diferentes tipos de vendas, conforme descrito a seguir:
+
+- Produto novo para novo cliente
+- Produto antigo para novo cliente
+- Produto novo para cliente antigo
+- Produto antigo para cliente antigo
+Cada tipo de venda estará associado a um plano de remuneração específico, o qual poderá ser configurado para determinar o bônus atribuído a cada vendedor.
+
+## Objetivos Acadêmicos
+
+Este desafio, proposto pela disciplina de Estrutura de Dados e Engenharia de Software na Fatec São José dos Campos, visa alcançar os seguintes objetivos:
+
+1. Levantamento e Registro de Requisitos: Utilizar técnicas de métodos ágeis e tradicionais para identificar e documentar os requisitos do sistema.
+
+2. Documentação DoR e DoD: Documentar adequadamente os critérios de Pronto (Definition of Ready - DoR) e os critérios de Concluído (Definition of Done - DoD).
+
+3. Modelagem de Processos de Negócio: Utilizar técnicas de VPC (Value Proposition Canvas) e BPMN (Business Process Model and Notation) para modelar os processos de negócio.
+
+4. Planejamento de Desenvolvimento de Software: Elaborar o Backlog de Produto e o Backlog de Sprint, planejando as etapas de desenvolvimento do software.
+
+5. Projeto de Arquitetura Lógica de Software: Projetar a arquitetura lógica da aplicação, assegurando a integração e a funcionalidade dos componentes.
+
+6. Implementação de Aplicação Orientada a Objetos: Desenvolver a aplicação utilizando conceitos de Orientação a Objetos e ORM (Object-Relational Mapping).
+
+# ➯ Planejamento de Entregas
+![planejamento-de-entregas](docs/cronograma-api-3-semestre.png)
+
+# ➯ Requisitos funcionais
+
+- Desenvolver uma interface para upload de vendas. 
+
+- Calcular as comissões dos vendedores com base nos diferentes tipos de venda e nos planos de remuneração associados. 
+
+- Desenvolver um dashboard de comissões de vendas que apresente as informações de forma clara e intuitiva. 
+
+- Desenvolvimento de funcionalidades de filtragem e segmentação para os gráficos, permitindo aos usuários explorar os dados de comissões de vendas com mais detalhes. 
+
+- Implementação de gráficos e visualizações de dados para análise de desempenho de vendas. 
+
+# ➯ Requisitos não funcionais
+
+- Documentação API – Application Programming Interface. 
+
+- Modelagem de Banco de Dados ou Arquivo de dados. 
+
+- Garantia de desempenho e escalabilidade do sistema, mesmo com grandes volumes de dados de vendas e usuários simultâneos. 
+
+- Interface responsiva e amigável para facilitar o acesso e a utilização do dashboard em diferentes dispositivos e tamanhos de tela.
+
+# ➯ Tecnologias utilizadas
+
+- NodeJS 
+
+- React
+
+- TypeScript 
+
+- PostgreSQL
+
+- Postman
+
+- Render
+
+- Vercel
+
+  
+# ➯ Outras Ferramentas utilizadas
+
+  - Excel
+    
+  - Trello
+    
+  - Figma
+
+# ➯ Utilização da metodologia Scrum no Projeto
+
+ Neste projeto, utilizamos a metodologia Scrum para organizar e gerenciar nosso trabalho de forma eficiente. Durante o desenvolvimento, seguimos os eventos do Scrum rigorosamente, mantendo uma comunicação constante através das Daily Scrums e ajustando nossos objetivos em resposta ao feedback nas Sprint Reviews. O Product Backlog foi mantido atualizado e priorizado pelo Product Owner, garantindo que estivéssemos sempre focados nas tarefas de maior valor. Ao final de cada Sprint, realizamos uma Sprint Retrospective para identificar áreas de melhoria e implementar mudanças para os próximos ciclos de desenvolvimento. Esta abordagem nos permitiu manter uma alta produtividade e adaptabilidade, entregando incrementos de produto de alta qualidade a cada Sprint.
+
+Scrum é uma metodologia ágil de gerenciamento de projetos, amplamente utilizada para desenvolvimento de software. Ela é projetada para oferecer uma abordagem iterativa e incremental, promovendo flexibilidade e rapidez na entrega de produtos. O Scrum é estruturado em torno de pequenos ciclos de desenvolvimento, chamados Sprints, que geralmente duram de duas a quatro semanas. Cada Sprint tem como objetivo entregar um incremento de produto potencialmente utilizável e revisado pelo cliente.
+
+## Artefatos do Scrum:
+- Product Backlog: Uma lista ordenada de tudo o que é conhecido para ser necessário no produto. É gerenciado pelo Product Owner e inclui histórias de usuário, melhorias, bugs e qualquer outro item necessário para o desenvolvimento do produto.
+
+- Sprint Backlog: Conjunto de itens do Product Backlog selecionados para serem trabalhados durante um Sprint, junto com um plano para entregá-los. Este é gerido pela equipe de desenvolvimento.
+
+- Incremento: A soma de todos os itens do Product Backlog completados durante um Sprint e os incrementos de todos os Sprints anteriores. No final de um Sprint, o novo incremento deve estar em um estado utilizável e atender à definição de pronto da equipe.
 
 
- O desafio do terceiro semestre consiste no desenvolvimento de uma  Dashboard de Comissões de Vendas, para uma empresa que receba dados de vendas e apresente as informações de comissões de vendas dos vendedores. O sistema deve ser capaz de calcular e exibir as comissões com base em diferentes tipos de vendas, tais como: 
+# ➯ MVP Do produto
+![mvp-4-sprint](docs/sales-dash-mvp.mp4)
 
-- Produto novo para novo cliente 
-
-- Produto antigo para cliente novo 
-
-- Produto novo para cliente antigo 
-
-- Produto antigo para cliente antigo 
-
-- Cada tipo de venda estará associado a um plano de remuneração específico, que poderá ser configurado para determinar o bônus a ser atribuído a cada vendedor. 
-
-
-
- Este desafio proposto pela disciplina de Estrutura de Dados e Engenharia de Software na Fatec São José dos Campos, visa levantar e registrar requisitos usando técnicas de métodos ágeis e tradicionais, documentar adequadamente DoR e DoD, modelar processos de negócio usando técnicas VPC e BPMN, planejar desenvolvimento de software (Backlog de Produto e Backlog de Sprint), projetar arquitetura lógica de software, implementar aplicação usando conceitos de orientação a objetos (ORM), utilizar IDE´s na implementação de aplicação em Typescript
-
-# ➯ Cronograma
-![planejamento-de-entregas](https://github.com/C0demain/sales-dash/assets/127250310/7d7f4c66-9b26-4663-b37f-2d5b51f2986c)
-
- 
-
-
-
-## 👨‍💻 Equipe
+# 👨‍💻 Integrantes da Equipe
 
 <div align="center">
   
@@ -44,63 +111,3 @@
 <br>  
   
 </div>
-
-## ➯ Requisitos funcionais
-
-- Desenvolver uma interface para upload de vendas. 
-
-- Calcular as comissões dos vendedores com base nos diferentes tipos de venda e nos planos de remuneração associados. 
-
-- Desenvolver um dashboard de comissões de vendas que apresente as informações de forma clara e intuitiva. 
-
-- Desenvolvimento de funcionalidades de filtragem e segmentação para os gráficos, permitindo aos usuários explorar os dados de comissões de vendas com mais detalhes. 
-
-- Implementação de gráficos e visualizações de dados para análise de desempenho de vendas. 
-
-## ➯ Requisitos não funcionais
-
-- Documentação API – Application Programming Interface. 
-
-- Modelagem de Banco de Dados ou Arquivo de dados. 
-
-- Garantia de desempenho e escalabilidade do sistema, mesmo com grandes volumes de dados de vendas e usuários simultâneos. 
-
-- Interface responsiva e amigável para facilitar o acesso e a utilização do dashboard em diferentes dispositivos e tamanhos de tela.
-
-## ➯ Tecnologias utilizadas
-
-- NodeJS 
-
-- React
-
-- TypeScript
-
-- PostgreSQL
-
-- Postman
-
-  
-## ➯ Outras Ferramentas utilizadas
-
-  - Excel
-    
-  - Trello
-    
-  - Figma
-
-## ➯ Utilização da metodologia Scrum no Projeto
-
- Neste projeto, utilizamos a metodologia Scrum para organizar e gerenciar nosso trabalho de forma eficiente. Durante o desenvolvimento, seguimos os eventos do Scrum rigorosamente, mantendo uma comunicação constante através das Daily Scrums e ajustando nossos objetivos em resposta ao feedback nas Sprint Reviews. O Product Backlog foi mantido atualizado e priorizado pelo Product Owner, garantindo que estivéssemos sempre focados nas tarefas de maior valor. Ao final de cada Sprint, realizamos uma Sprint Retrospective para identificar áreas de melhoria e implementar mudanças para os próximos ciclos de desenvolvimento. Esta abordagem nos permitiu manter uma alta produtividade e adaptabilidade, entregando incrementos de produto de alta qualidade a cada Sprint.
-
-Scrum é uma metodologia ágil de gerenciamento de projetos, amplamente utilizada para desenvolvimento de software. Ela é projetada para oferecer uma abordagem iterativa e incremental, promovendo flexibilidade e rapidez na entrega de produtos. O Scrum é estruturado em torno de pequenos ciclos de desenvolvimento, chamados Sprints, que geralmente duram de duas a quatro semanas. Cada Sprint tem como objetivo entregar um incremento de produto potencialmente utilizável e revisado pelo cliente.
-
-#### Artefatos do Scrum:
-- Product Backlog: Uma lista ordenada de tudo o que é conhecido para ser necessário no produto. É gerenciado pelo Product Owner e inclui histórias de usuário, melhorias, bugs e qualquer outro item necessário para o desenvolvimento do produto.
-
-- Sprint Backlog: Conjunto de itens do Product Backlog selecionados para serem trabalhados durante um Sprint, junto com um plano para entregá-los. Este é gerido pela equipe de desenvolvimento.
-
-- Incremento: A soma de todos os itens do Product Backlog completados durante um Sprint e os incrementos de todos os Sprints anteriores. No final de um Sprint, o novo incremento deve estar em um estado utilizável e atender à definição de pronto da equipe.
-
-
-### MVP Do produto➯
-![mvp-4-sprint](https://github.com/C0demain/sales-dash/assets/127250310/d422f44b-c3ce-419b-963f-daeeae0282dc)
